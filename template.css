@@ -1,0 +1,548 @@
+		body{
+			background-color: #F7E8E1;
+			font-family: 'Comfortaa', cursive;
+			margin: 0px;
+		}
+		a:link{
+			color: white;}
+		a:visited{
+			color: #4B2B31;}
+		a:hover{
+			background-color: #F1E2CA ;
+			color: black;}
+		a:active{
+			color: blue;}
+
+		table{border-collapse: collapse;}
+		
+
+		div.baner {
+			position: fixed;
+			width: 100%;
+			height: 120px;
+			background-color: #3c5d79;
+			margin: 0px;
+			text-transform: uppercase;
+			font-weight: bold;
+
+		}
+		.TopHead{
+			margin: 5px;
+			color: white;
+			text-align: center;
+		}
+		div.fix{
+			position: fixed;
+			width: 100%;
+			padding: 2px;
+		}
+		div.NavigationBox{
+			padding: 1px;
+			position: fixed;
+			width: 100%;
+			background-color: #9897A9;
+			border: 10px solid #9897A9;
+		}
+		.page{
+			text-align: center;
+			text-transform: uppercase;
+			font-weight: bold;
+		}
+		.intable{
+			text-align: center;
+			width: 200px;
+			font-size: 18px;
+		}
+		.intable1{
+			text-align: center;
+			width: 200px;
+			font-size: 18px;
+		}
+		.intable2{
+			text-align: left;
+			width: 220px;
+			font-size: 18px;
+		}
+		div.contact {
+			position: fixed;
+			padding: 1px;
+			width: 100%;
+			background-color: white;
+			text-align: right;
+			text-transform: lowercase;
+		}
+		div.GoTop{
+			padding: 1px;
+			position: fixed;
+			bottom: 0px;
+			right: 0px;
+			background-color: #9CA9B1;
+			color: black;
+			font-size: 18px;
+		}
+		div.FrameQoute{
+			border: 3px dashed #90604C;
+			border-radius: 50px;
+			background-color: #E5C4AB;
+			text-align: center;
+			font-size: 20px;
+			columns: white;
+			width: 410px;
+		}
+
+		 /*----------------------Friend-------------------------------*/
+		
+		 .Headpart{
+		 	width: 100%;
+		 	text-align: center;
+		 	font-weight: bold;
+		 	font-size: 35px;
+		 	background-color: #D6CCC4;
+		 }
+
+
+		 div.FrameFriendQoute{
+			
+			border-radius: 50px;
+			background-color: #F8F8F6;
+			font-size: 20px;
+			columns: white;
+			width: 1000px;
+			height: 120px;
+		}
+		.TextInFame{
+			margin: 20px;
+			text-align: justify;
+		}
+		.subHead{
+				padding: 3px;
+				background-color: #ffe0f2;
+				float: left;
+				text-align: left;
+				font-weight: bold;
+		 		font-size: 25px;
+
+		}
+
+		div.FrameFriendfirst{
+			background-color: #fffef0;
+			font-size: 20px;
+			width: 100%;
+			height: auto;
+		}
+		.TextInFameFriend{
+			margin: 18px;
+			text-align: justify;
+		}
+		.bgCharac1{
+			background-color: #F4E3D7;
+			border-radius: 10px;
+		}
+
+		.bgCharac2{
+			background-color: #ffe0f2;
+			border-radius: 10px;
+		}
+
+		/*----------------------Gallery-------------------------------*/
+		
+		div.left{
+			float: left;}
+
+		.subHead1{
+				padding: 3px;
+				background-color: #f9d877;
+				text-align: center;
+				font-weight: bold;
+		 		font-size: 25px;
+		 		width: 300px;
+
+		}
+
+		div.framePic{
+			background-color: #ffbfe1;
+			font-size: 20px;
+			width: 1000px;
+			height: 250px
+
+		}
+
+
+		div.framePic2{
+			background-color: #fad3cf;
+			font-size: 20px;
+			width: 1000px;
+			height: 290px
+
+		}
+		div.framePic3{
+			background-color: #ffbfe1;
+			font-size: 20px;
+			width: 1000px;
+			height: 290px
+
+		}
+		/*----------------------Bio------------------------------*/
+
+
+		div.SubBio{
+				padding: 0.009px;
+				background-color: #f9d877;
+				font-weight: bold;
+		 		width:663px;
+		}
+
+		.inSub{
+			font-size: 35px;
+			text-align: center;
+		}
+
+		div.bioInf{
+				padding: 1px;
+				background-color: #ffd0e2;
+		 		width: 600px;
+		 		border:30px solid #ffd0e2 ;
+		}
+
+		.inBio{
+			font-size: 18px;
+			text-align: justify;
+			text-indent: 100px;
+			line-height: 26px;
+
+		}
+		div.link{
+			background-color: #C9BB9F;
+			width: 100%;
+			line-height: 16px;
+		
+			border-bottom-style:	solid;
+			border-bottom-color:	#C9BB9F;
+			border-bottom-width:	1px;
+
+			border-top-style:	solid;
+			border-top-color:	#9897A9;
+			border-top-width:	1px;
+
+		}
+
+
+		/*----------------------Activity-------------------------------*/
+
+		
+		div.subHeadAc{
+				background-color: #f9d877;
+				font-weight: bold;
+		 		width:800px;
+		 		text-align: center;
+		 		font-size: 25px;
+		 		font-weight: bold;
+		 		padding:0px;
+
+		}
+		div.framTable{
+				padding: 0px;
+				background-color: #ffd0e2;
+		 		width: 800px;
+		 		border:10px solid #ffd0e2 ;
+		}
+		.tableAc{
+			width: 800px;
+			font-size: 18px;
+			line-height: 26px;
+		}
+
+		.bgleft{
+			background-color: #4B7A90;
+			width: auto;
+			float: left;
+			border:10px solid #4B7A90;
+			margin: 5px;
+		}
+
+		
+		.bgleft2{
+			background-color: #9CA9B1;
+			width: auto;
+			float: left;
+			border: 10px solid #9CA9B1;
+			margin: 5px;
+		}
+		.bgTextAct{
+			background-color: #F1E2CA;
+		}
+		/*---------------------------HighSchool---------------------------------------*/
+
+		.subHeadBestFriend{
+			background-color: #f9d877;
+			font-weight: bold;
+		 	text-align: center;
+		 	font-size: 25px;
+		 	font-weight: bold;
+		 	padding:0px;
+
+		}
+		.subHeadBestFriend2{
+			background-color: #ffbfcf;
+			font-weight: bold;
+		 	text-align: center;
+		 	font-size: 25px;
+		 	font-weight: bold;
+		 	padding:0px;
+
+		}
+		.subHeadBestFriend3{
+			background-color: #ffd0e2;
+			font-weight: bold;
+		 	text-align: center;
+		 	font-size: 25px;
+		 	font-weight: bold;
+		 	padding:0px;
+
+		}
+		div.bgleft3{
+			background-color: #9CA9B1;
+			width: auto;
+			float: left;
+			border: 10px solid #9CA9B1;
+			margin: 15px;
+		}
+
+		div.bgleft4{
+			background-color: #d1d0e0;
+			width: auto;
+			float: left;
+			border:10px solid #d1d0e0;
+			margin: 15px;
+		}
+
+		.subHeadSchool{
+				padding: 3px;
+				background-color: #ffe0f2;
+				float: left;
+				text-align: left;
+				font-weight: bold;
+		 		font-size: 25px;
+
+		}
+		.subinSubFriend{
+				padding: 3px;
+				background-color: #b196c1;
+				text-align: center;
+				font-weight: bold;
+		 		font-size: 20px;
+		 		width: 250px;
+
+		}
+		.ActSchool{
+			font-size: 18px;
+			text-align: justify;
+			text-indent: 100px;
+			line-height: 26px;
+			padding: 0px;
+
+		}
+
+		.bgTextSchool{
+			background-color: #4B7A90;
+			color: white;
+		}
+
+		.schoolWidth{
+			width:270px;
+			border:10px solid #d1d0e0;
+
+		}
+
+		.inBio{
+			font-size: 18px;
+			text-align: justify;
+			text-indent: 0px;
+			line-height: 26px;
+		}
+			/*---------------------------Country---------------------------------------*/
+
+		div.bgleft5{
+			background-color: #BC8F8F;
+			width: auto;
+			float: left;
+			border:10px solid #BC8F8F;
+			margin:10px;
+			
+
+		}
+		div.bgleft6{
+			background-color: #BC8F8F;
+			width: auto;
+			float: left;
+			border:10px solid #BC8F8F;
+			margin:10px;
+			height: 1395px;
+			
+
+		}
+		.countryWidth{
+			width:300px;
+			border:10px solid #BC8F8F;
+
+		}
+
+		/*---------------------------Place---------------------------------------*/
+		
+		.placeWidth{
+			width: 350px;
+			background-color: #8FBC8F;
+			border: 10px solid #5F9EA0;
+			border-bottom-style:	solid;
+			border-bottom-color:	#8FBC8F;
+			border-bottom-width:	10px;
+
+			border-top-style:	solid;
+			border-top-color:	#8FBC8F;
+			border-top-width:	10px;
+		}
+		.nameWidth{
+			width: 350px;
+			background-color: #8FBC8F;
+			border: 10px solid #5F9EA0;
+			border-bottom-style:	solid;
+			border-bottom-color:	#5F9EA0;
+			border-bottom-width:	10px;
+
+		
+		}
+		.namePlace{
+			width: 350px;
+			background-color: #E0FFFF;
+			border:10px solid #E0FFFF;
+
+		}
+		.infPlace{
+			text-align: justify;
+			border: 10px solid #5F9EA0;
+			background-color: #A9A9A9;
+			width: 350px;
+			border-radius: 25px;
+
+			
+		}
+
+		.inPlace{
+			text-align: center;
+			font-size: 20px;
+			font-weight: bold;
+		}
+		.txtPlace{
+			text-align: 350px;
+			font-size: 16px;
+			margin: 3px;
+			
+		}
+
+		div.framePlace{
+			background-color: #5F9EA0;
+			font-size: 20px;
+			width: 1000px;
+			height: 400px;
+
+		}
+		.subHeadPlace{
+			background-color : #FF8C00;
+			color: white;
+			padding: 1px;
+			width: 1000px;
+			text-align: center;
+			font-weight: bold;
+		 	font-size: 25px;
+
+		}
+		.intable6{
+			text-align: center;
+			width: 350px;
+			font-size: 18px;
+		}
+
+		/*------------------Skills----------------*/
+
+		div.subHeadSk{
+			background-color: #D4C6BD;
+			font-weight: bold;
+	 		width:800px;
+	 		text-align: center;		 		
+	 		font-size: 25px;
+			font-weight: bold;
+		 	padding:0px;
+
+		}
+		div.framTableSk{
+			padding: 0px;
+			background-color: #D6B7B5;
+			width: 800px;
+		 	border:10px solid #D4C6BD;
+		}
+		.bgleft8{
+			background-color: #3D5361;
+			width: auto;
+			float: left;
+			border:10px solid #3D5361;
+			margin: 5px;
+		}
+	/*------------------Projects----------------*/
+			
+		div.subHeadPr{
+				background-color: #CDDAD8;
+				font-weight: bold;
+				width:800px;
+				text-align: center;
+		 		font-size: 25px;
+		 		font-weight: bold;
+		 		padding:0px;
+
+			}
+		div.framTablePr{
+				padding: 0px;
+				background-color: #E2B8AC;
+		 		width: 800px;
+		 		border:10px solid #D4C6BD;
+			}
+		.bgleft9{
+				background-color: #919F89;
+				width: auto;
+				float: left;
+				border:10px solid #919F89;
+				margin: 5px;
+			}
+
+		div.bigFramPicPr{
+			background-color: #919F89;
+			width: auto;
+			border:10px solid #919F89;
+			margin: 5px;
+		}
+
+		img.picPro{
+			margin: 10px;
+			width: 150px;
+		}
+		div.framPicPr{
+			width: 170px;
+			margin: 5px;
+			border: 1px solid black;
+			background-color: gray;
+			float: left;
+			border-radius: 20px;
+		}
+	
+		.cenText{
+			text-align: center;
+		}
+
+
+
+
+
+
+
+
+
+
